@@ -6,7 +6,7 @@ const connectDB = handler => async (req, res) => {
     return handler(req, res);
   }
   // Use new db connection
-  await mongoose.connect("mongodb+srv://shr:yogaform@cluster0.navowpb.mongodb.net/?retryWrites=true&w=majority", {
+  await mongoose.connect("", {
     useUnifiedTopology: true,
     useNewUrlParser: true
   });
