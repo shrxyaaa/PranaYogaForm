@@ -8,7 +8,7 @@ Yoga Class registration app- Flexmoney Assignment
 
 
 ```bash
-  git clone https://github.com/shrxyaaa/Portfolio_Website.git
+  git clone https://github.com/shrxyaaa/PranaYogaForm.git
 
   > npm install
   > npm run dev
@@ -47,12 +47,12 @@ Yoga Class registration app- Flexmoney Assignment
   <tr>
     <td> 
    <em>Home</em>
-     <img align="left" alt="ER Diagram" width="360"
+     <img align="left" alt="ER Diagram" width="400"
       src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Home.png">
     </td>
     <td>
       <em>About</em>
-       <img align="left" alt="ER Diagram" width="360"
+       <img align="left" alt="ER Diagram" width="400"
        src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_About.png">
     </td>
    </tr>
