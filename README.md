@@ -18,7 +18,7 @@ Yoga Class registration app- Flexmoney Assignment
 
 
  ```bash
-   NEXT_PUBLIC_SANITY_TOKEN=
+   MONGO_URI=
 ```   
 
 
