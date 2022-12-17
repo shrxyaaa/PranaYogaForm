@@ -2,7 +2,7 @@
 Yoga Class registration app- Flexmoney Assignment
 
 ## Check it out
-[![Frontend](https://img.shields.io/badge/Project-deployed-green?style=for-the-badge&logo=appveyor)](https://prana-yoga.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Project-deployed-blue?style=for-the-badge&logo=appveyor)](https://prana-yoga.vercel.app/)
 
 ## 🔬 Local Setup
 
@@ -69,6 +69,7 @@ Yoga Class registration app- Flexmoney Assignment
   </tr>
   
   <tr>
+  <td>
    <em>Payment</em>
    <img align="left" alt="ER Diagram" width="400"
    src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Payment.png">
