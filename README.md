@@ -44,21 +44,35 @@ Yoga Class registration app- Flexmoney Assignment
 
 ## UI
 
-**Home** 
-<img align="left" alt="ER Diagram" width="400"
+<table>
+  <tr>
+    <td> 
+    **Home** 
+<img align="left" alt="ER Diagram" width="360"
  src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Home.png">
 
-**About**
-<img align="right" alt="ER Diagram" width="400"
+    </td>
+
+    <td>
+    **About**
+<img align="right" alt="ER Diagram" width="360"
  src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_About.png">
 
-**Register**
+    </td>
+   </tr> 
+   <tr>
+      <td>
+        <em>Register</em>
 <img align="left" alt="ER Diagram" width="400"
  src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Registration.png">
-
+<td>
 **Member**
 <img align="right" alt="ER Diagram" width="400"
- src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Member.png">
+ src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Member.png"></td>
+  </td>
+  </tr>
+</table>
+
 
 **Payment**
 <img align="center" alt="ER Diagram" width="400"
