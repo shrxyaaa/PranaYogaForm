@@ -1,9 +1,8 @@
 # PranaYogaForm
 Yoga Class registration app- Flexmoney Assignment
 
-
-<a href="https://prana-yoga.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-
+## Check it out
+[![Frontend](https://img.shields.io/badge/Project-deployed-green?style=for-the-badge&logo=appveyor)](https://prana-yoga.vercel.app/)
 
 ## 🔬 Local Setup
 
@@ -53,7 +52,7 @@ Yoga Class registration app- Flexmoney Assignment
     </td>
     <td>
       <em>About</em>
-       <img align="right" alt="ER Diagram" width="360"
+       <img align="left" alt="ER Diagram" width="360"
        src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_About.png">
     </td>
    </tr>
@@ -64,13 +63,18 @@ Yoga Class registration app- Flexmoney Assignment
        src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Registration.png">
   <td>
    <em>Member</em>
-   <img align="right" alt="ER Diagram" width="400"
+   <img align="left" alt="ER Diagram" width="400"
     src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Member.png"></td>
+  </td>
+  </tr>
+  
+  <tr>
+   <em>Payment</em>
+   <img align="left" alt="ER Diagram" width="400"
+   src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Payment.png">
   </td>
   </tr>
 </table>
 
 
-**Payment**
-<img align="center" alt="ER Diagram" width="400"
- src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Payment.png">
+
