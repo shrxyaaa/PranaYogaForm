@@ -47,28 +47,25 @@ Yoga Class registration app- Flexmoney Assignment
 <table>
   <tr>
     <td> 
-    **Home** 
-<img align="left" alt="ER Diagram" width="360"
- src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Home.png">
-
+   <em>Home</em>
+     <img align="left" alt="ER Diagram" width="360"
+      src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Home.png">
     </td>
-
     <td>
-    **About**
-<img align="right" alt="ER Diagram" width="360"
- src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_About.png">
-
+      <em>About</em>
+       <img align="right" alt="ER Diagram" width="360"
+       src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_About.png">
     </td>
-   </tr> 
+   </tr>
    <tr>
       <td>
         <em>Register</em>
-<img align="left" alt="ER Diagram" width="400"
- src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Registration.png">
-<td>
-**Member**
-<img align="right" alt="ER Diagram" width="400"
- src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Member.png"></td>
+      <img align="left" alt="ER Diagram" width="400"
+       src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Registration.png">
+  <td>
+   <em>Member</em>
+   <img align="right" alt="ER Diagram" width="400"
+    src="https://github.com/shrxyaaa/PranaYogaForm/blob/main/yoga-class/public/PY_Member.png"></td>
   </td>
   </tr>
 </table>
