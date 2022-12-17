@@ -34,7 +34,9 @@ Yoga Class registration app- Flexmoney Assignment
 
 - **Next.js** - Framework
 - **MongoDb** - DataBase
+
 **Deployment**
+
 - **VERCEL** - Hosting platform
 
 ## ER Diagram
