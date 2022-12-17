@@ -29,7 +29,9 @@ Yoga Class registration app- Flexmoney Assignment
 - **Next.js** - Framework
 - **Tailwind CSS** - CSS Framework
 - **Axios** - HTTP Client
+
 **Server**
+
 - **Next.js** - Framework
 - **MongoDb** - DataBase
 **Deployment**
