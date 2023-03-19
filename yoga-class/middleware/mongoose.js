@@ -1,16 +1,19 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
-const connectDB = handler => async (req, res) => {
-  if (mongoose.connections[0].readyState) {
-    // Use current db connection
-    return handler(req, res);
-  }
-  // Use new db connection
-  await mongoose.connect("", {
-    useUnifiedTopology: true,
-    useNewUrlParser: true
-  });
-  return handler(req, res);
+const connectDB = (handler) => async (req, res) => {
+	if (mongoose.connections[0].readyState) {
+		// Use current db connection
+		return handler(req, res);
+	}
+	// Use new db connection
+	await mongoose.connect(
+		"mongodb+srv://shr:yogaform@cluster0.navowpb.mongodb.net/?retryWrites=true&w=majority",
+		{
+			useUnifiedTopology: true,
+			useNewUrlParser: true,
+		}
+	);
+	return handler(req, res);
 };
 
 export default connectDB;

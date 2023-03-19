@@ -1,23 +1,20 @@
-import Head from 'next/head'
-import Footer from '../components/Footer'
-import Layout from '../components/Layout'
-import { Navbar } from '../components/Navbar'
-import '../styles/globals.css'
-import Link from 'next/link'
+import Head from "next/head";
+import Footer from "../components/Footer";
+import Layout from "../components/Layout";
+import "../styles/globals.css";
+import React from "react";
 function MyApp({ Component, pageProps }) {
-  return (
-    
-    <>
-    <Head>
-       <title>Pranayama Yoga</title>
-        <link rel="icon" href="/favicon.ico" />    
-        </Head>
+	return (
+		<>
+			<Head>
+				<title>Pranayama Yoga</title>
+				<link rel="icon" href="/favicon.ico" />
+			</Head>
 
-  <Component {...pageProps} />
-   <Footer/>
-   </>
-   
-  )
+			<Component {...pageProps} />
+			<Footer />
+		</>
+	);
 }
 
-export default MyApp
+export default MyApp;
