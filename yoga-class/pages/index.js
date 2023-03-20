@@ -25,7 +25,7 @@ export default function Home() {
 			<div className="w-max p-10 bg-black backdrop:blur-3xl bg-opacity-80  h-screen">
 				<Logo />
 
-				<div className=" h-4/6 m-auto  justify-center align-middle space-y-14">
+				<div className=" m-auto  justify-center align-middle space-y-14">
 					<Alert alert={alert} pClass="text-center text-white text-xl" />
 
 					<NavButtons

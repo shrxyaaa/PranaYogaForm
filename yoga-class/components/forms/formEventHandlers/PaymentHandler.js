@@ -17,7 +17,8 @@ const handlePayment = async (amount, setAlert, router) => {
 		if (data._id == "2") {
 			if (!localStorage.getItem("successMessage"))
 				localStorage.setItem("successMessage", data.msg);
-			router.push("/");
+			setAlert(data.msg);
+			await router.push("/");
 		}
 
 		setAlert(data.msg);

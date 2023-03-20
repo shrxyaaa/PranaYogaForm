@@ -17,9 +17,10 @@ const payment = async (req, res) => {
 
 				console.log(savedUser);
 				// Create new user
-				if (!savedUser) {
-					return res.status(422).json({ error: "Kindly register first" });
-				}
+				if (!savedUser)
+					return res
+						.status(200)
+						.json({ msg: "Kindly register first", _id: "2" });
 
 				await User.findByIdAndUpdate(
 					savedUser._id,
